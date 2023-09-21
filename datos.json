@@ -1,0 +1,6 @@
+[
+    { "id":1, "nombre": "Aperol Spritz", "precio": 10, "img":"img/aperoll.png","cantidad": 1},
+    { "id":2, "nombre": "Martini", "precio": 20, "img":"img/martinii.png", "cantidad": 1},
+    { "id":3, "nombre": "Daikiri", "precio": 30, "img":"img/daiquirii.png", "cantidad": 1},
+    { "id":4, "nombre": "Mojito", "precio": 40, "img":"img/mojitoo.png", "cantidad": 1}
+]
